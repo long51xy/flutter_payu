@@ -1,8 +1,8 @@
 name: flutter_payu
 description: payu sdk.
-version: 0.0.1
-author:
-homepage:
+version: 0.0.2
+author: zhaolong <zhaoyuen123@126.com>
+homepage: https://github.com/long51xy/flutter_payu
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

@@ -1,5 +1,7 @@
 # Flutter payu SDK 
 
+Currently only Android is supported
+
 # author
 
 zhaolong Email:<zhaoyuen123@126.com>
@@ -10,7 +12,7 @@ zhaolong Email:<zhaoyuen123@126.com>
 
 
 ```yaml
-  flutter_payu: ^0.0.1
+  flutter_payu: ^0.0.2
 ```
 
 <br/>
